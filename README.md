@@ -8,11 +8,11 @@ What it does:
 - Prints the rules it learned, the accuracy on the data in the notebook, and a plot of the decision regions.
 
 Files
-- [Decision_Tree/iris1.ipynb](Decision_Tree/iris1.ipynb) — the code, training, and plots.
-- [Decision_Tree/output.png](Decision_Tree/output.png) — a saved boundary plot.
+- [Decision_Tree-Iris_Flower/iris1.ipynb](iris1.ipynb) — the code, training, and plots.
+- [Decision_Tree-Iris_Flower/output.png](output.png) — a saved boundary plot.
 
 How to run it
-1. Open the notebook [Decision_Tree/iris1.ipynb](Decision_Tree/iris1.ipynb) in VS Code or Jupyter.
+1. Open the notebook [Decision_Tree/iris1.ipynb](iris1.ipynb) in VS Code or Jupyter.
 2. Run the cells top to bottom. You should see:
    - A scatter plot of the petal features.
    - Printed rules from the simple tree.
